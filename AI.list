@@ -4,6 +4,7 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,Pluto
+DOMAIN-KEYWORD,annas
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
@@ -28,3 +29,19 @@ DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,monica.im
 DOMAIN-SUFFIX,ip.ping0.cc/
 DOMAIN-SUFFIX,pluto.tv
+# talkatone
+DOMAIN-SUFFIX,mobilefuse.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,talkatone.com
+DOMAIN-SUFFIX,kochava.com
+# 这个域名最好走代理，我这边直连已超时
+# DOMAIN-SUFFIX,tktn.be
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,agkn.com
+DOMAIN-SUFFIX,tktn.at
+IP-CIDR,50.117.27.0/24
+IP-CIDR,69.46.75.0/24
+IP-CIDR,205.164.56.0/24
+IP-CIDR,63.251.124.0/24
